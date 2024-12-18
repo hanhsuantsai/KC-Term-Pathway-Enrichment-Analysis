@@ -171,4 +171,4 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 
 ## Contact
-For questions, contact [owarekings@tamu.edu](mailto:owarekings@tamu.edu).
+For questions, contact [hanhsuan.tsai@tamu.edu](mailto:hanhsuan.tsai@tamu.edu).
